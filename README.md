@@ -1,7 +1,3 @@
-# FreightHub Frontend Coding Challenge
-
-Welcome to the FreightHub frontend coding challenge! Please read the following instructions carefully.
-
 **Your goal is to set up an application which enables the user to view and manage shipments.**
 
 # Contents
