@@ -13,3 +13,9 @@ Steps to run the project:
 4) HTML
 5) CSS
 6) JavaScript
+
+
+<h3>Project Home Page:</h3>
+
+<img src="https://raw.githubusercontent.com/abhinayTiwari/Shipment-Details/master/Home%20Page-%20Shipment%20Detail.png">
+
